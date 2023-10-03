@@ -1,0 +1,4 @@
+# ninja log v5
+2	17	1695810624529750675	CMakeFiles/crypto.dir/main_2.cpp.o	f4b5206ad3301115
+1	391	1695814052580716796	CMakeFiles/crypto.dir/main.cpp.o	c1e194e7fa4e5ae4
+391	472	1695814052660719315	crypto	f62e035c00331fc0
